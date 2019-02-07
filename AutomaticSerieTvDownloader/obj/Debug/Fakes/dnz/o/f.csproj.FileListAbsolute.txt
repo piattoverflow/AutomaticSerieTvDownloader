@@ -1,0 +1,16 @@
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.1.10.1.0.Fakes.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.1.10.1.0.Fakes.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.1.10.1.0.Fakes.pdb
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Fizzler.Systems.HtmlAgilityPack.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\HtmlAgilityPack.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Newtonsoft.Json.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Newtonsoft.Json.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\f.csprojResolveAssemblyReference.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\f.csproj.CoreCompileInputs.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\f.csproj.CopyComplete
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\DotNetZip.1.10.1.0.Fakes.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\DotNetZip.1.10.1.0.Fakes.pdb

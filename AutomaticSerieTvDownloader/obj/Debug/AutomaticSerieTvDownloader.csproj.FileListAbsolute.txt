@@ -1,0 +1,110 @@
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe.config
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.pdb
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\HtmlAgilityPack.dll
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Fizzler.dll
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csprojResolveAssemblyReference.cache
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Form1.resources
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Properties.Resources.resources
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.GenerateResource.Cache
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.CoreCompileInputs.cache
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.exe
+E:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.pdb
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe.config
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.pdb
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Fizzler.dll
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csprojResolveAssemblyReference.cache
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Form1.resources
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Properties.Resources.resources
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.GenerateResource.Cache
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.CoreCompileInputs.cache
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.exe
+D:\Progetti2017\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.pdb
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csprojFakesResolveAssemblyReference.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.1.10.1.0.Fakes.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.1.10.1.0.Fakes.fakesconfig
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.1.10.1.0.Fakes.pdb
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.1.10.1.0.Fakes.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\DotNetZip.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Fizzler.Systems.HtmlAgilityPack.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\HtmlAgilityPack.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Newtonsoft.Json.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\b\Newtonsoft.Json.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\f.ah
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\f.ch
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\f.cs
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\f.csproj
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\f.fakes
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\f.fakesconfig
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\f.snk
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\DotNetZip.1.10.1.0.Fakes.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\DotNetZip.1.10.1.0.Fakes.pdb
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\f.csproj.CopyComplete
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\f.csproj.CoreCompileInputs.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\f.csproj.FileListAbsolute.txt
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\dnz\o\f.csprojResolveAssemblyReference.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\Fakes\fakes.args
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csprojResolveAssemblyReference.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Form1.resources
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Properties.Resources.resources
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.GenerateResource.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.CoreCompileInputs.cache
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe.config
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.pdb
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\DotNetZip.1.10.1.0.Fakes.fakesconfig
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\DotNetZip.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Newtonsoft.Json.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\DotNetZip.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Newtonsoft.Json.xml
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.CopyComplete
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.exe
+D:\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.pdb
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csprojAssemblyReference.cache
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Form1.resources
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.Properties.Resources.resources
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.GenerateResource.cache
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.CoreCompileInputs.cache
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe.config
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.exe
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\AutomaticSerieTvDownloader.pdb
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\DotNetZip.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\JavaScriptEngineSwitcher.Core.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\JavaScriptEngineSwitcher.Jint.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Jint.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Newtonsoft.Json.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\DotNetZip.xml
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\JavaScriptEngineSwitcher.Core.xml
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\JavaScriptEngineSwitcher.Jint.xml
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Newtonsoft.Json.xml
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\ru-ru\JavaScriptEngineSwitcher.Jint.resources.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.csproj.CopyComplete
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.exe
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\obj\Debug\AutomaticSerieTvDownloader.pdb
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\CloudFlareUtilities.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.AppContext.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Console.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Globalization.Calendars.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.IO.Compression.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.IO.FileSystem.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Net.Http.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Net.Sockets.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Progetti\Progetti 2018\AutomaticSerieTvDownloader\AutomaticSerieTvDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
